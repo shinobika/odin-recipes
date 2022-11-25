@@ -1,0 +1,56 @@
+
+
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+
+    color:white;
+}
+
+.M1{
+    color: rgb(247, 247, 247);
+}
+.gradi{
+    background: linear-gradient(90deg, rgb(4, 2, 43) 0%, 
+    rgb(2, 2, 126) 35%,
+     rgb(72, 74, 230) 100%);
+
+}
+/*Retour Home*/
+.back{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+/*=================Page Mufin============*/
+.atc{
+    color: white;
+    background-color: rgb(3, 8, 58);
+    position: relative;
+    border-radius:30px;
+    margin: 0px;
+    
+}
+
+
+/*============= Page lasagne===========*/
+.headd{
+    background-color: rgb(1, 13, 53);
+    padding: 50px;
+    
+}
+
+
+.Ingrédient{
+    font-weight:auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer.lasagne{
+    border-color: aquamarine;
+    background-color: darkred;
+}
+.foot{
+    background-color: rgb(4, 3, 61);
+    padding: 40px;
+    margin:0px;
+}
