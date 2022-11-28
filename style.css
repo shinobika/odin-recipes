@@ -10,12 +10,7 @@
 .M1{
     color: rgb(247, 247, 247);
 }
-.gradi{
-    background: linear-gradient(90deg, rgb(4, 2, 43) 0%, 
-    rgb(2, 2, 126) 35%,
-     rgb(72, 74, 230) 100%);
 
-}
 /*Retour Home*/
 .back{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -25,18 +20,28 @@
 /*=================Page Mufin============*/
 .atc{
     color: white;
-    background-color: rgb(3, 8, 58);
+    background-color: rgb(56, 63, 146);
     position: relative;
     border-radius:30px;
     margin: 0px;
     
+    border-width: small;
+    border-color: rgb(223, 183, 138);
+    border-style: dotted;
+    
+}
+.gradi{
+    background: linear-gradient(90deg, rgb(4, 2, 43) 0%, 
+    rgb(2, 2, 126) 35%,
+     rgb(72, 74, 230) 100%);
+
 }
 
 
 /*============= Page lasagne===========*/
 .headd{
-    background-color: rgb(1, 13, 53);
-    padding: 50px;
+    background-color: rgb(25, 10, 107);
+    padding: 20px;
     
 }
 
@@ -44,6 +49,8 @@
 .Ingrédient{
     font-weight:auto;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    
 }
 .footer.lasagne{
     border-color: aquamarine;
