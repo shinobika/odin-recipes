@@ -42,6 +42,10 @@
 .headd{
     background-color: rgb(25, 10, 107);
     padding: 20px;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    
     
 }
 
